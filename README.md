@@ -9,3 +9,7 @@ Technologies used:
 - Docker
 
 All projects were deployed to Google Cloud Platform successfully. 
+
+Topics I've learned since:
+- use a secret manager
+- ...
