@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "hw3-baars",
+  "private_key_id": "ad6a9239f17c3ea5975e1498167b06e8525fb95a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDIhDfFtIfxgstm\nEyzb3HHoKPHT3Gmml4Nl0+vKQt5qRzQZHBQqqv1R+0HTohbWtMyvMJiKcHR46w05\ngT/INlUH5CihKGJ46pOywX6strJ5wgM4DTmwc7yWXlxz84viuDl6Fw3mhSt1p11z\nRYUEgqRvUkoAE97A4Ulvpd9yJpjWmJMRFO3mNrimLnXKhkMpkHpELNSRgcVz1TRi\n/RkJa4ADuTMZ5KXjSggIKVkc+qgPPukaPv7C2EaG2B7w6DICq6QPjzw4sINE98oH\nR9PEZ92M2qXrcjoJ5UArAPk8mqguJj2ER+R+6Q5ddbxoV1oy6HJ8EhBcLeR+V/n0\neCZ8nAhXAgMBAAECggEACtXmQ6dJT1o/jpELtAfaGe8YflfjV67JWXfVvpTVew3E\n+XRkfJfH36XBvWN9c3XKt87a92QzTxN4n/pljXauKqKANZE+nQUkHR1KsJ+gzmaX\nEPDaBLiEYOXRfiyTixlkdb4IMMRSgGWebau8j+1VYHSkbhOkzmx+MOvYQs1mJfZ5\nQlB1vWXOIn7Xl2AzvWIYhw18bEAa3ouY3MBeoKHE/rwTl94hGl2Thnq2lHmLMb4c\n1kmXxf2hYEv7MBvsrNlULkq1pY/naZifpl3XyMY9yYBjeAbs7j5Atx3fdaK9clmb\noG8ZRGGUXLrd1XgtmVyVJNOoZ5Ukk5X4vIzF+dJXOQKBgQDm3KfSY3/peYpc5UcF\ngd3FIG1+5PXA4OpNZDciap9EoFm4aTaQk5ktpiIeiA/R5ZVCd1apFZonPpg9oh1G\n8bjqqke4Z0rpFUlCeNVFWRvjMbK8z8mVLZelQVGed9aWw4K1Gt+2x4xn7p7p+fDJ\nOr6qSyczzSdPWzwdUQByomRXmQKBgQDeWax2RpGwLZ5YITkWlBWZ103iSfJ5abeW\nC83Z7DkoTe9gYdYYdMKt7FRs/Mhz1Vr2TW9Jq9cNZZJb+F3tSYwvSPOF94Yh+ZwB\nrxXEQ3cqDBAFtAI1hz7l4fGr1iLdZoO6kzU9HVUBop2H6p9zQc8r4TNY8fIBehns\nSW9aB86VbwKBgQCtpcV5w6u/4tLHIxIzu0Yjc0vJCdEsHkE+qyWpdoeL6Az0X/dR\n8iNiqba6Pl+f4s9NalQ95GjKIhQDMABTj5gmsqQ1uUQoZAFxxU+t1OPcFVK7IJQg\n6GVLQQFyb/Nx/WdAcBFb+2bJ+juABKcvxUcK8nJvTV3HG/nwly/+CdXt6QKBgAHe\nkSOhbkIj8Avfo6I79n6Hn+ECLCa3K9L4IG/vm39qQFP4HpuwB578uKz95xWKOqyN\ndB0Tc8hqDTP2v5tqHeKb42hB73/DoHsnJLC0vIC+/zd9DvOyQmYeYzDFqR9haEQe\nTrlH0NolqttkrpiCeiJtT0g1KIq4oxUofOYt4J/DAoGABbSTBproRFLEV52DIR3R\noQjtGHL/0z4yFg2P3ncugnKiWtkZlw897Tjw+F54UdCQxYRYF9pouemf7Pcnqxa+\nzqmccgml8HeY0ir0jaYPNJ+nqdXX6RNURUL0xV9ahhvScZrdVKi/aR1Bu7aHVQxm\n/1H8/g7U08Zhpc1T6tFgrkU=\n-----END PRIVATE KEY-----\n",
+  "client_email": "lodgings-mysql-account@hw3-baars.iam.gserviceaccount.com",
+  "client_id": "110232557253800087053",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/lodgings-mysql-account%40hw3-baars.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
