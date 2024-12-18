@@ -1,4 +1,4 @@
-# example-projects
+# API-projects
 
 Here is a collection of project examples that showcase my ability to develop RESTful API's.
 
